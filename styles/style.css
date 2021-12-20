@@ -333,9 +333,13 @@
   font-family: "Helvetica Neue", "Arial", sans-serif;
 }
 
-.footer__column-link_list {
+.footer__list-block {
   margin: 0 0 16px 0;
   padding: 0;
+}
+
+.footer__address {
+  font-style: normal;
 }
 
 .footer__column-link-item {
@@ -373,7 +377,6 @@
   background-size: 16px 16px;
   background-repeat: no-repeat;
   background-position: left center;
-  background-repeat: no-repeat;
 }
 
 .instagram::before {
@@ -386,5 +389,4 @@
   background-size: 16px 16px;
   background-repeat: no-repeat;
   background-position: left center;
-  background-repeat: no-repeat;
 }
