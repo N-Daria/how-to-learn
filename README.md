@@ -1,5 +1,4 @@
 # Научиться учиться
-===
 
 ## Учебная работа по верстке от Яндекс.Практикум.
 ### "Расширенные возможности HTML и CSS".
@@ -8,11 +7,13 @@
 
 ## Используемые технологии
  1. HTML5, CSS3.
- 2.
-
+ 2. Анимация (@keyframes).
+ 3. Flexbox.
+ 4. Позиционирование.
+ 5. Медиаконтент.
 
 <p align="center">
-![image](https://github.com/N-Daria/how-to-learn/tree/main/images/preview.gif)
+  <img src="images/preview.gif" />
 </p>
 
 ## Планы по доработке проекта
