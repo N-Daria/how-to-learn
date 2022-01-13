@@ -1,0 +1,99 @@
+.footer {
+  min-height: 350px;
+  background-color: #1f1f1f;
+  padding: 60px 0 40px;
+  box-sizing: border-box;
+  display: flex;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer__columns {
+  margin: 0 auto;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__column_content_copyright {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-basis: 711px;
+}
+
+.logo_place_footer {
+  height: 35px;
+}
+
+.footer__author {
+  margin: 18px 0 18px;
+  color: white;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.footer__column-heading {
+  color: white;
+  margin: 0 0 20px 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.footer__column-links {
+  margin: 0 0 16px 0;
+  padding: 0;
+}
+
+.footer__address {
+  font-style: normal;
+}
+
+.footer__column-link-item {
+  list-style-type: none;
+}
+
+.footer__column-link {
+  text-decoration: none;
+  color: white;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.facebook::before {
+  content: " ";
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  background-image: url(../../images/facebook_color_white.svg);
+  background-size: 16px 16px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  margin-right: 10px;
+}
+
+.vkontakte::before {
+  content: " ";
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  margin-right: 10px;
+  background-image: url(../../images/vk_color_white.svg);
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
+.instagram::before {
+  content: " ";
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  margin-right: 10px;
+  background-image: url(../../images/instagram_color_white.svg);
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
