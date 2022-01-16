@@ -1,7 +1,3 @@
-@import url(./__heading/table__heading.css);
-@import url(./__cell_theme/table__cell_theme_white.css);
-@import url(./__text/table__text.css);
-
 .table {
   display: flex;
   flex-wrap: wrap;
