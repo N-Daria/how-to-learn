@@ -1,0 +1,7 @@
+.video__iframes {
+  margin: -10px auto 0;
+  min-height: 316px;
+  width: 1050px;
+  display: flex;
+  justify-content: space-between;
+}

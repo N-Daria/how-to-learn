@@ -1,0 +1,8 @@
+.video__iframe {
+  margin: 0;
+  width: 515px;
+  min-height: 316px;
+  border: none;
+  position: relative;
+  top: 60px;
+}
