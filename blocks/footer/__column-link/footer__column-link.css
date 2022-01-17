@@ -5,39 +5,3 @@
   font-size: 18px;
   font-weight: 400;
 }
-
-.facebook::before {
-  content: " ";
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  background-image: url(/images/facebook_color_white.svg);
-  background-size: 16px 16px;
-  background-position: left center;
-  background-repeat: no-repeat;
-  margin-right: 10px;
-}
-
-.vkontakte::before {
-  content: " ";
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  margin-right: 10px;
-  background-image: url(/images/vk_color_white.svg);
-  background-size: 16px 16px;
-  background-repeat: no-repeat;
-  background-position: left center;
-}
-
-.instagram::before {
-  content: " ";
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  margin-right: 10px;
-  background-image: url(/images/instagram_color_white.svg);
-  background-size: 16px 16px;
-  background-repeat: no-repeat;
-  background-position: left center;
-}
